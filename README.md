@@ -11,7 +11,7 @@
 1. 克隆项目，终端进入项目根目录
 
 ```javascript
-git clone https://github.com/wkl007/vue-wechat-login.git
+git clone https://github.com/zhoubingyan1/vue3-wechat-login
 ```
 
 2. 安装项目依赖
