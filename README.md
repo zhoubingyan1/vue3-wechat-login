@@ -4,7 +4,7 @@
 
 项目基于`vue 3.0` ,`vant`,`typescript`开发的微信授权登录示例。
 
-使用前请阅读 [CSDN博客](https://blog.csdn.net/qq_35844177/article/details/79743812) 及微信网页授权 [相关文档](https://developers.weixin.qq.com/doc/offiaccount/OA_Web_Apps/Wechat_webpage_authorization.html) 。
+使用前微信网页授权 [相关文档](https://developers.weixin.qq.com/doc/offiaccount/OA_Web_Apps/Wechat_webpage_authorization.html) 。
 
 ## 运行调试
 
